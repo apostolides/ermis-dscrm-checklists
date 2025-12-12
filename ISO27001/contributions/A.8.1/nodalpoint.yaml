@@ -10,13 +10,13 @@ contributions:
     notes: "All Windows endpoints are protected by Microsoft Defender for Endpoint. Compliance reports are available through the Endpoint Security dashboard."
 
   - checklist_item_id: A8.1.5
-    notes: "Multi-factor authentication is required on all devices using YubiKey.
+    notes: "Multi-factor authentication is required on all devices using YubiKey."
 
   - checklist_item_id: A8.1.6
     notes: "BitLocker (AES-256) is enforced on all employee laptops via GPO. We use a dedicated, cloud-hosted recovery key vault (Hashicorp Vault)."
 
   - checklist_item_id: A8.1.9
-    notes: "Lost or stolen devices must be reported within 2 hours via our internal security hotline.""
+    notes: "Lost or stolen devices must be reported within 2 hours via our internal security hotline."
 
 
 
