@@ -1,7 +1,7 @@
 control: A.8.1
 org: nodalpoint
 contributor: nodalpoint
-shared_on: '2025-12-12'
+shared_on: '2025-12-18'
 contributions:
   - checklist_item_id: A8.1.5
     notes: Multi-factor authentication is required on all devices using YubiKey.
@@ -13,3 +13,5 @@ contributions:
     notes: 'We did this and that. '
   - checklist_item_id: A8.1.4
     notes: hello
+  - checklist_item_id: A8.1.1
+    notes: Contributed
